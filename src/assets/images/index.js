@@ -1,5 +1,5 @@
 
-import Per from './image-removebg-preview.png';
+import Per from './PhotoRoom-20240425_002924';
 
 export {
   Per

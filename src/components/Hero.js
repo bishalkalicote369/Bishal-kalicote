@@ -5,7 +5,7 @@ import './Hero.css';
 const Hero = () => {
   return (
     <section className='container grid grid-cols-1 md:grid-cols-2 justify-between items-center h-full mx-auto sm:mt-[180px] mt-[90px]'>
-      <div className="floating-image mx-auto"> {/* Add mx-auto class here */}
+      <div className="floating-image mx-auto "> {/* Add mx-auto class here */}
 
         <img src={Per} alt="me" />
       </div>
